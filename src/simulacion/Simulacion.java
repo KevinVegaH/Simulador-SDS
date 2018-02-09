@@ -8,6 +8,9 @@ package simulacion;
 /**
  *
  * @author kevin_000
+ * 
+ * Link: http://www.cs.wm.edu/~esmirni/Teaching/cs526/section1.2.pdf
+ * 
  */
 public class Simulacion {
 
